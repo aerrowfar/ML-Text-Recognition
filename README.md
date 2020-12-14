@@ -9,3 +9,5 @@ neural_network_cnn.py uses the created training dataset to train a CNN for recog
 NN-Extractor.py then uses sorting_characters.py to break up an image of a paragraph into individual characters, and then translates the text using the created CNN model. There are various metrics considered for accuracy including a propietary string_error.py method.
 
 Other supervised learning methods such as SVM and ANN were also employed and tested but for the sake of simplicity, I only included the most promising method.
+
+A summary of my work and findings can be seen here: https://drive.google.com/file/d/1i-eZ3TKNCEbMcFu6j0uQD3ZYqjh9Qs2X/view
